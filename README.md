@@ -1,2 +1,1 @@
-# financialAssistant
-Python Financial Assistant AI
+## Python Financial Assistant AI
